@@ -41,7 +41,7 @@ Credit card user categories:
 * PRC_FULL_PAYMENT: Percentage of the amount of full payment made by the customer to the total credit card bill within a certain period.
 * TENURE: The period of time (in months) during which the customer has used the credit card.
 
-## Dashboard
+## Data Visualization
 <img width="480" alt="creditcard_dashboard" src="https://github.com/hanifah25/Mechine-Learning-Credit-Card-Customer-Segmentation/assets/52957685/2a876d2a-6376-498c-a194-e94d4689d959">
 
 * Created with Looker: https://lookerstudio.google.com/reporting/5f2a4674-840b-4d62-88c1-d34b4e4e611b
