@@ -40,3 +40,7 @@ Credit card user categories:
 * MINIMUM_PAYMENTS: The minimum number of payments a customer must make each month on a credit card.
 * PRC_FULL_PAYMENT: Percentage of the amount of full payment made by the customer to the total credit card bill within a certain period.
 * TENURE: The period of time (in months) during which the customer has used the credit card.
+
+## Dashboard
+<img width="480" alt="creditcard_dashboard" src="https://github.com/hanifah25/Mechine-Learning-Credit-Card-Customer-Segmentation/assets/52957685/2a876d2a-6376-498c-a194-e94d4689d959">
+
